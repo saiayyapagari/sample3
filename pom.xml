@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>delta</groupId>
 	<artifactId>alpha</artifactId>
-	<version>gamma</version>
+	<version>gemma</version>
 	<properties>
 		<zk.version>9.6.0-Eval</zk.version>
 		<commons-io>2.6</commons-io>
